@@ -1,0 +1,16 @@
+﻿  test.c
+E:\MVS的码\C\sizeof的练习\test.c(20,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+E:\MVS的码\C\sizeof的练习\test.c(20,9): message : 请考虑在格式字符串中使用“%zd”
+E:\MVS的码\C\sizeof的练习\test.c(21,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+E:\MVS的码\C\sizeof的练习\test.c(21,9): message : 请考虑在格式字符串中使用“%zd”
+E:\MVS的码\C\sizeof的练习\test.c(22,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+E:\MVS的码\C\sizeof的练习\test.c(22,9): message : 请考虑在格式字符串中使用“%zd”
+E:\MVS的码\C\sizeof的练习\test.c(23,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+E:\MVS的码\C\sizeof的练习\test.c(23,9): message : 请考虑在格式字符串中使用“%zd”
+E:\MVS的码\C\sizeof的练习\test.c(24,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+E:\MVS的码\C\sizeof的练习\test.c(24,9): message : 请考虑在格式字符串中使用“%zd”
+E:\MVS的码\C\sizeof的练习\test.c(25,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+E:\MVS的码\C\sizeof的练习\test.c(25,9): message : 请考虑在格式字符串中使用“%zd”
+E:\MVS的码\C\sizeof的练习\test.c(26,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+E:\MVS的码\C\sizeof的练习\test.c(26,9): message : 请考虑在格式字符串中使用“%zd”
+  sizeof的练习.vcxproj -> E:\MVS的码\C\sizeof的练习\x64\Debug\sizeof的练习.exe
