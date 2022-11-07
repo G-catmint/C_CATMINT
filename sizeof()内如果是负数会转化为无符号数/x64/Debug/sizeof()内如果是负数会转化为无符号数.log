@@ -1,0 +1,2 @@
+﻿  test.c
+  sizeof()内如果是负数会转化为无符号数.vcxproj -> E:\MVS的码\C\sizeof()内如果是负数会转化为无符号数\x64\Debug\sizeof()内如果是负数会转化为无符号数.exe
