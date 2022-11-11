@@ -1,0 +1,4 @@
+﻿  test.c
+E:\MVS的码\C\结构体\结构体大小\test.c(13,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+E:\MVS的码\C\结构体\结构体大小\test.c(13,9): message : 请考虑在格式字符串中使用“%zd”
+  结构体大小.vcxproj -> E:\MVS的码\C\结构体\结构体大小\x64\Debug\结构体大小.exe
