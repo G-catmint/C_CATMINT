@@ -1,0 +1,3 @@
+﻿  test.c
+E:\MVS的码\C\练习题\左旋翻转三步法\test.c(18,12): warning C4013: “strlen”未定义；假设外部返回 int
+  左旋翻转三步法.vcxproj -> E:\MVS的码\C\练习题\左旋翻转三步法\x64\Debug\左旋翻转三步法.exe
