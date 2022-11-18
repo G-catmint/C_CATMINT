@@ -1,0 +1,4 @@
+﻿  test.c
+E:\MVS的码\C\练习题\字符串逆序\test.c(9,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\MVS的码\C\练习题\字符串逆序\test.c(28,2): warning C4013: “gets”未定义；假设外部返回 int
+  字符串逆序.vcxproj -> E:\MVS的码\C\练习题\字符串逆序\x64\Debug\字符串逆序.exe
