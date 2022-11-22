@@ -1,0 +1,4 @@
+﻿  test.c
+E:\MVS的码\C\实现strstr的函数\test.c(20,16): warning C4090: “return”: 不同的“const”限定符
+E:\MVS的码\C\实现strstr的函数\test.c(8,1): warning C4090: “初始化”: 不同的“const”限定符
+  实现strstr的函数.vcxproj -> E:\MVS的码\C\实现strstr的函数\x64\Debug\实现strstr的函数.exe
