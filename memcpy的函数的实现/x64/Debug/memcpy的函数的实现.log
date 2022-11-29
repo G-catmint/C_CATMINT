@@ -1,0 +1,3 @@
+﻿  test.c
+E:\MVS的码\C\memcpy的函数的实现\test.c(39,9): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“s *”
+  memcpy的函数的实现.vcxproj -> E:\MVS的码\C\memcpy的函数的实现\x64\Debug\memcpy的函数的实现.exe
