@@ -1,0 +1,4 @@
+﻿  test.c
+E:\MVS的码\数据结构\链表\单链表取值\test.c(68,23): warning C4047: “函数”:“Linklist *”与“Linklist **”的间接级别不同
+E:\MVS的码\数据结构\链表\单链表取值\test.c(68,19): warning C4024: “make_slist”: 形参和实参 1 的类型不同
+  单链表取值.vcxproj -> E:\MVS的码\数据结构\链表\单链表取值\x64\Debug\单链表取值.exe
