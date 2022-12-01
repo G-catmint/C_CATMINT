@@ -1,0 +1,4 @@
+﻿  test.c
+E:\MVS的码\数据结构\链表\链表的头插法储存\test.c(60,24): warning C4047: “函数”:“Linklist *”与“Linklist **”的间接级别不同
+E:\MVS的码\数据结构\链表\链表的头插法储存\test.c(60,20): warning C4024: “Initlinklist”: 形参和实参 1 的类型不同
+  链表的头插法储存.vcxproj -> E:\MVS的码\数据结构\链表\链表的头插法储存\x64\Debug\链表的头插法储存.exe
